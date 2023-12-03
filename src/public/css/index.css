@@ -1,0 +1,48 @@
+.main__header{
+    text-align:center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.name {
+    margin-bottom:20px;
+}
+
+.gender {
+    margin-bottom: 20px;
+}
+
+.email {
+    margin-bottom: 20px;
+}
+
+.tell {
+    margin-bottom: 20px;
+}
+
+.address {
+    margin-bottom: 20px;
+}
+
+.building-name {
+    margin-bottom: 20px;
+}
+
+.contact-category {
+    margin-bottom: 20px;
+}
+
+.contact-content{
+    margin-bottom: 20px;
+}
+
+.confirm__button {
+    margin-bottom: 20px;
+}
+
+.form__label-required {
+    color:red;
+}
+
+
+
